@@ -2,7 +2,7 @@
 
 I am Isaam Akhtar, a 26 year old boy based in Norway. 
 
-I mostly work on frontend stuff. I like creating meaningful projects on a hobby. I am eager to learn new technology and looking forward for my coding journey. 
+I mostly work on frontend stuff. I like creating meaningful projects on a hobby. I am eager to learn new technology and looking forward to my coding journey. 
 
 🔭 I’m currently working on a travel app.
  🌱 I’m currently learning React and Next.js.
