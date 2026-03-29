@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**isaam-0711/isaam-0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Isaam Akhtar, a 26 year old boy based in Norway. 
 
-Here are some ideas to get you started:
+I mostly work on frontend stuff. I like creating meaningful projects on a hobby. I am eager to learn new technology and looking forward for my coding journey. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a travel app.
+ 🌱 I’m currently learning React and Next.js.
+ 📫 How to reach me: email: isaam1702@outlook.com
+
+A BIT ABOUT ME
+
+- Gaming & chess addict
+- Excersize
+- Tea person
+- I like to build easy and meaningful things
+
+
